@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: venkatchinna6/myimage1:latest
+          image: venkatchinna6/kops-k8pt:latest
           imagePullPolicy: Always
 
